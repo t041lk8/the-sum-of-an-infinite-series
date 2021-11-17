@@ -1,8 +1,7 @@
-## the-sum-of-an-infinite-series
 # Лабораторная работа "Вычисление суммы бесконечного числового ряда"
 Программа вычисляет сумму бесконечного степенного ряда
 
-![equation](https://latex.codecogs.com/png.image?\dpi{200}\sum_{N=1}^{}{(-1){}}^{N-1}\frac{{X_{}}^{N}}{N})
+<img src="https://latex.codecogs.com/png.image?\dpi{200}&space;\bg_white&space;\sum_{N=1}^{}{(-1){}}^{N-1}\frac{{X_{}}^{N}}{N}" title="\bg_white \sum_{N=1}^{}{(-1){}}^{N-1}\frac{{X_{}}^{N}}{N}" />
 
 ## Описание программы
 На вход программе подается аргумент ряда X и точность Eps. Для входных данных производится входной контроль. 
